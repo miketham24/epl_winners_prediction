@@ -1,0 +1,1 @@
+Implemented the Random Forests Machine Learning Model using Python, pandas, and sci-kit learn on English Premier League data to predict the league winner, resulting in X% prediction accuracy and X% precision score
